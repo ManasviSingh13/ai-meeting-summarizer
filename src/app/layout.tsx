@@ -13,8 +13,8 @@ const geistMono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ai summarizer by Mohammad Iqbal",
-  description: "Ai summarizer by iqbal",
+  title: "Ai summarizer by Manasvi Singh",
+  description: "Ai summarizer by Manasvi",
 };
 
 export default function RootLayout({

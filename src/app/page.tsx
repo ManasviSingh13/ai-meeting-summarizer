@@ -82,10 +82,10 @@ export default function Home() {
   return (
     <main className="max-w-3xl mx-auto p-6 space-y-8">
       <h1 className="text-2xl font-bold text-center mb-6">
-        AI Meeting Notes Summarizer by Mohammad Iqbal
+        AI Meeting Notes Summarizer by Manasvi Singh
       </h1>
       <h2 className="text-2xl font-bold text-center mb-6">
-         ki925053@gmail.com
+        singhmanasvi341@gmail.com
       </h2>
 
       {/* Upload + Paste Transcript */}
